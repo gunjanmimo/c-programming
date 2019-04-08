@@ -1,0 +1,22 @@
+for loop:
+
+Syntax: 
+For(initialization; condition;updating), { . Statements; }
+It is known as entry controlled loop
+If the condition is not true first time than control will never enter in a loop
+Initialization and updating is the part of the syntax.
+while loop:
+
+Syntax:
+While(condition), { . Statements; . }
+It is known as entry controlled loop.
+If the condition is not true first time than control will never enter in a loop.
+Initialization and updating is not the part of the syntax.
+
+do-while loop:
+
+Syntax:
+Do { . Statements; } While(condition);
+It is known as exit controlled loop.
+Even if the condition is not true for the first time the control will enter in a loop.
+Initialization and updating is not the part of the syntax
